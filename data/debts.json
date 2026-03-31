@@ -1,0 +1,5 @@
+[
+  {"name": "Credit Card A", "total": 4200, "min_payment": 140, "interest": 29.9},
+  {"name": "Personal Loan", "total": 8000, "min_payment": 210, "interest": 14.5},
+  {"name": "Credit Card B", "total": 1900, "min_payment": 75, "interest": 24.0}
+]
